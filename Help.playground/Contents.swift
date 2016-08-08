@@ -1,4 +1,7 @@
 let name = "Audrey"
+
+name.uppercaseString
+
 name.uppercaseString
 
 let uppercaseName = name.uppercaseString
